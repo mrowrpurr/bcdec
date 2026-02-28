@@ -16,3 +16,6 @@ _deps
 /release
 /test_images/*.tga
 /test_images/*.hdr
+.xmake
+build
+compile_commands
